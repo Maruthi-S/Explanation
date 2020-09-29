@@ -1,0 +1,43 @@
+What’s next?
+
+We are going to add sound and animation to the game.
+What is our GOAL for today`s video : 
+
+We used our knowledge of functions, loops, and operators to create different behaviors in
+different conditions.
+
+What did we ACHIEVE in the class TODAY?
+● Stored the state of a game in a variable.
+● Displayed different information on the screen according to the state of the game.
+● Used conditional programming and logical operators to assign different behaviors to
+the objects in the game depending on the state of the game.
+
+Which CONCEPTS/ CODING BLOCKS did we cover today?
+● Game state
+● Logical operators
+● Conditional programming
+
+How did we DO the activities?
+
+In a game, there is a change of state, for example, Start, Play, and End.
+
+1. The first state (Serve state) is when the ball is at the center and the user needs to
+press "Space" to serve the ball.
+
+2. The second state (Play state) is when the play starts, and the ball is in motion.
+
+Specific instruction: If the user presses space and the game is in SERVE state, then
+serve the ball.
+
+3. Change the GameState variable back to "serve" state inside the condition ‘when the
+ball crosses the screen’.
+
+4. Add a scoring system and the condition to increase the player or computer score
+when the opposite paddle misses hitting the ball.
+
+5. The third state (Game over) is when the player or computer scores 5 points.
+
+6. The game then ends and the player needs to press "R" to restart the game.
+
+What’s next?
+We are going to add sound and animation to the game.
